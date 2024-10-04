@@ -16,8 +16,7 @@
                 <li><a target="blank" href="doc/EstudioTema1.pdf">TEMA 1 DESARROLLO WEB EN ENTORNO SERVIDOR</a></li>   
             </ul>
             <ul>
-                <li>TEMA 2 INSTALACIÓN, CONFIGURACIÓN Y DOCUMENTACIÓN DEL ENTORNO DE DESARROLLO Y DEL ENTORNO DE EXPLOTACIÓN</li>
-                <li><a target="blank" href="doc/EstudioTema2.pdf">EstudioTema2</a></li>            
+                <li><a target="blank" href="doc/EstudioTema2.pdf">TEMA 2 INSTALACIÓN, CONFIGURACIÓN Y DOCUMENTACIÓN DEL ENTORNO DE DESARROLLO Y DEL ENTORNO DE EXPLOTACIÓN</a></li>            
             </ul> 
             <ul>
                 <li><a href="/202DWESProyectoTema3/indexProyectoTema3.php">TEMA 3 CARACTERÍSTICAS DEL LENGUAJE PHP</a></li>        

@@ -29,7 +29,7 @@
             </ul>  
             <h2>TEMA 4 TÉCNICAS DE ACCESO A DATOS EN PHP</h2>
             <ul>
-                <li><a href="">Ejercicios Tema 4</a></li>        
+                <li><a href="/202DWESProyectoTema4/indexProyectoTema4.php">Ejercicios Tema 4</a></li>        
             </ul>
             <h2>TEMA 5 DESARROLLO DE APLICACIONES WEB UTILIZANDO CÓDIGO EMBEBIDO</h2>
             <ul>

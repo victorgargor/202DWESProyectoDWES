@@ -15,7 +15,7 @@
             <h2>TEMA 1 DESARROLLO WEB EN ENTORNO SERVIDOR</h2>
             <ul>
                 <li><a target="blank" href="doc/EstudioTema1.pdf">Desarrollo de aplicaciones web (estudio teórico)</a></li>
-                <li><a target="blank" href="doc/EstudioTema1.pdf">Prestashop (estudio teórico)</a></li>
+                <li><a target="blank" href="doc/Prestashop.pdf">Prestashop (estudio teórico)</a></li>
             </ul>
             <h2>TEMA 2 INSTALACIÓN, CONFIGURACIÓN Y DOCUMENTACIÓN DEL ENTORNO DE DESARROLLO Y DEL ENTORNO DE EXPLOTACIÓN</h2>
             <ul>

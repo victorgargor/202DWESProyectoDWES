@@ -20,7 +20,7 @@
             <h2>TEMA 2 INSTALACIÓN, CONFIGURACIÓN Y DOCUMENTACIÓN DEL ENTORNO DE DESARROLLO Y DEL ENTORNO DE EXPLOTACIÓN</h2>
             <ul>
                 <li><a target="blank" href="doc/EstudioTema2.pdf">Entorno de desarrollo AMP</a></li> 
-                <li><a target="" href="">Funciones y Clases PHP</a></li>
+                <li><a target="blank" href="doc/EstudiosClasesyFunciones.pdf">Funciones y Clases PHP</a></li>
                 <li><a target="" href="">Entorno de desarrollo Prestashop</a></li>
             </ul> 
             <h2>TEMA 3 CARACTERÍSTICAS DEL LENGUAJE PHP</h2>

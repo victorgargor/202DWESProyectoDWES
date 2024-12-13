@@ -22,8 +22,8 @@
                 <li><a target="blank" href="doc/EstudioTema2.pdf">Entorno de desarrollo AMP</a></li> 
                 <li><a target="blank" href="doc/EstudiosClasesyFunciones.pdf">Funciones y Clases PHP</a></li>
                 <li><a target="" href="">Entorno de desarrollo Prestashop</a></li>
-                <li><a target="" href="">Tienda Prestashop</a></li>
-                <li><a target="" href="">Sistema Biblioteca</a></li>
+                <li><a target="blank" href="https://prestashop.victorgargon.informatica.ieslossauces.es/">Tienda Prestashop</a></li>
+                <li><a target="blank" href="https://biblioteca.victorgargon.informatica.ieslossauces.es/">Sistema Biblioteca</a></li>
             </ul> 
             <h2>TEMA 3 CARACTERÍSTICAS DEL LENGUAJE PHP</h2>
             <ul>
